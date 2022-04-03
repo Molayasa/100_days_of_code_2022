@@ -1,0 +1,23 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+nav div, nav ul {
+  margin: 5px;
+  color: palevioletred;
+  display: flex;
+}
+
+nav div {
+  border: 1px solid plum;
+  box-shadow: 2px 3px 3px black;
+  background-color: pink;
+  padding: 5px;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+
